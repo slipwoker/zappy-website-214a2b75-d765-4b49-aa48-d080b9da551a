@@ -1,47 +1,63 @@
-# Business — Generative Engine Optimization Map
+# מכבסת טיפ טופ — Generative Engine Optimization Map
+
+> A laundry business offering both self-service and full-service options, catering to customers who prefer to do their own laundry as well as those who want a complete, handled laundry experience. The business combines convenience and flexibility, serving a broad range of customers from individuals to families.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://machbasettiptop.zappy5.app
 מכבסת טיפ טופ מציעה שירות כביסה עצמי ומלא, זמינה 24 שעות ביממה. בין אם אתה מעדיף לטפל בכביסה בעצמך או לתת לנו לעשות הכל, אנחנו כאן בשבילך. בואו לגלות נוחות אמיתית!
 
 ### שירותים
-https://example.com/services
+https://machbasettiptop.zappy5.app/services
 גלו את מגוון שירותי הכביסה של מכבסת טיפ טופ: שירות עצמי מהיר, שירות מלא עם טיפול מקצועי, וכל זאת 24 שעות ביממה. בחרו את החבילה המתאימה לכם והשאירו את הכביסה לנו!
 
 ### אודות
-https://example.com/about
+https://machbasettiptop.zappy5.app/about
 מכבסת טיפ טופ נוסדה מתוך אהבה לניקיון ונוחות. אנו מחויבים לספק חוויית כביסה מושלמת לכל לקוח, מיחידים ועד משפחות שלמות. הכירו את הצוות שעומד מאחורי השירות הטוב ביותר בירושלים!
 
 ### צור קשר
-https://example.com/contact
+https://machbasettiptop.zappy5.app/contact
 יש לכם שאלות על שירותי הכביסה שלנו? צרו קשר עם מכבסת טיפ טופ עוד היום! אנחנו זמינים לכל פנייה ושמחים לעזור לכם למצוא את הפתרון המושלם לכביסה שלכם. אל תחכו, פנו אלינו עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://machbasettiptop.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://machbasettiptop.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://machbasettiptop.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מכבסת טיפ טופ
+A laundry business offering both self-service and full-service options, catering to customers who prefer to do their own laundry as well as those who want a complete, handled laundry experience. The business combines convenience and flexibility, serving a broad range of customers from individuals to families.
+
+## Services/Products
+- שירות עצמי
+- שירות מלא
+
+## Target Audience
+- משפחות עסוקות
+- רווקים עירוניים
+- סטודנטים
+
+## Industry
+שירותי כביסה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://machbasettiptop.zappy5.app/sitemap.xml
+- **Robots.txt**: https://machbasettiptop.zappy5.app/robots.txt
