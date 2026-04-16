@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מכבסת טיפ טופ מציעה שירות כביסה עצמי ומלא, זמינה 24 שעות ביממה. בין אם אתה מעדיף לטפל בכביסה בעצמך או לתת לנו לעשות הכל, אנחנו כאן בשבילך. בואו לגלות נוחות אמיתית!
+
+### שירותים
+https://example.com/services
+גלו את מגוון שירותי הכביסה של מכבסת טיפ טופ: שירות עצמי מהיר, שירות מלא עם טיפול מקצועי, וכל זאת 24 שעות ביממה. בחרו את החבילה המתאימה לכם והשאירו את הכביסה לנו!
+
+### אודות
+https://example.com/about
+מכבסת טיפ טופ נוסדה מתוך אהבה לניקיון ונוחות. אנו מחויבים לספק חוויית כביסה מושלמת לכל לקוח, מיחידים ועד משפחות שלמות. הכירו את הצוות שעומד מאחורי השירות הטוב ביותר בירושלים!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על שירותי הכביסה שלנו? צרו קשר עם מכבסת טיפ טופ עוד היום! אנחנו זמינים לכל פנייה ושמחים לעזור לכם למצוא את הפתרון המושלם לכביסה שלכם. אל תחכו, פנו אלינו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
